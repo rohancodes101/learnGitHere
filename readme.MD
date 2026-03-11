@@ -6,6 +6,12 @@
 # Check Git version
 git --version
 
+git init
+# Connect to a remote repo (optional)
+git remote add origin git@github.com:username/my-project.git
+# Push first commit
+git push -u origin main
+
 # Configure user info
 git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
