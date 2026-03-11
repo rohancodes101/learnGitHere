@@ -1,0 +1,5 @@
+git stash is liek temporaray ctrl+S
+whcih will save your work rtemporaraily in any branch, so immeditaly you can go to other branch adn do the p1 work and come back and use the ctrl+s saved file and use this:
+so git stash saves the file in feature bracn h temporarily
+adn then we do git stash pop we get it back and delets the temporary storage 
+and git stash apply we get it back and not deletes the stash 
